@@ -1,0 +1,18 @@
+body {
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+div {
+    border: 2px solid yellow;
+    color: #fff;
+}
+#absolute {
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    top: 120px;
+    right: 20px;
+}
